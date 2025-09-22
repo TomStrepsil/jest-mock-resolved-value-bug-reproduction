@@ -1,0 +1,15 @@
+{
+  "name": "jest-mock-resolved-value-bug-reproduction",
+  "version": "0.0.1",
+  "description": "minimal reproduction for jest bug report",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TomStrepsil/jest-mock-resolved-value-bug-reproduction.git"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^30.1.3"
+  }
+}
